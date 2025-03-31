@@ -86,7 +86,7 @@ Yes! Just make sure:
 
 ### Where do I see created products?
 
-- Click **"View product"** or go to your Shopify admin → Products
+- Go to your Shopify admin → Products
 - Click **View** Button in Actions column of data table to view product in Shopify Admin
 
 ---
